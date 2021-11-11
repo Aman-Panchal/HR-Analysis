@@ -18,10 +18,14 @@
 | Department |
 | left|
 
+![Screenshot (380)](https://user-images.githubusercontent.com/62400307/141348852-d747a8d1-c83d-4451-a2f8-baa529e9540b.png)
+
 
 ## Data exploration and visualization
 
 Average numbers for all columns
+
+![Screenshot (381)](https://user-images.githubusercontent.com/62400307/141348906-413cb274-60e1-4972-a439-b0945497a008.png)
 
 
 From above table we can draw following conclusions,
@@ -34,6 +38,8 @@ From above table we can draw following conclusions,
 Impact of salary on employee retention
 
 
+![Screenshot (382)](https://user-images.githubusercontent.com/62400307/141348988-0f7c06ef-6904-4717-9937-da4b59df0d55.png)
+
 
 Above bar chart shows employees with high salaries are likely to not leave the company
 
@@ -41,6 +47,7 @@ Above bar chart shows employees with high salaries are likely to not leave the c
 
 Department wise employee retention rate
 
+![Screenshot (383)](https://user-images.githubusercontent.com/62400307/141349037-6a7339dc-d82f-4cd7-b2fd-9e78b0202a08.png)
 
 
 
@@ -61,4 +68,4 @@ Salary has all text data. It needs to be converted to numbers and we will use du
 
 
 
-And in the end applied Logistic Regression with an accuracy of 78.42%,
+And in the end applied **Logistic Regression** with an **accuracy** of **78.42%**,
