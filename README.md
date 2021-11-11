@@ -5,6 +5,21 @@
 
 •	In this we used various factors such as : satisfaction_level, number_project, promotion_last_5years, Department, salary, etc. and analyzed it
 
+
+## Install dependecies
+numpy 
+```
+!pip install numpy 
+```
+pandas
+```
+!pip install pandas
+```
+matplotlib
+```
+pip install matplotlib
+```
+
 ## DATA
 | Features |
 | :-------- |
@@ -68,4 +83,5 @@ Salary has all text data. It needs to be converted to numbers and we will use du
 
 
 
-And in the end applied **Logistic Regression** with an **accuracy** of **78.42%**,
+And in the end applied **Logistic Regression** and get an **accuracy** of **78.42%**, which help company, to mostly focus on employee which has higher chances to left the company.  
+
